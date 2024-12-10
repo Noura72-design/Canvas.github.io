@@ -1,0 +1,305 @@
+@charset "utf-8";
+@charset "utf-8";
+
+body {
+    background-color: #D4E6D9;
+    text-transform: none;
+}
+#container {
+}
+#navigation ul { 
+    list-style-type: none;
+    /* [disabled]margin-right: px; */
+    margin-left: px;
+    padding-top: 16x;
+    padding-left: 16x;
+    padding-right: 16x;
+    padding-bottom: 16x;
+    margin-bottom: 0px;
+}
+#navigation ul li {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+    margin-right: 0px;
+    width: 12%;
+    display: block;
+    clear: left;
+    text-align: center;
+    float: right;
+    text-shadow: 0px 0px;
+    color: #FFFFFF;
+    font-size: 160%;
+    position: static;
+    margin-top: 50px;
+}
+#navigation ul li a {
+    display: block;
+    text-decoration: none;
+    background-color: #6A7A6F;
+    color: #FFFFFF;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 12px;
+    padding-right: 12px;
+    border-radius: 20px;
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+    letter-spacing: 10%;
+}
+#navigation ul li a:hover {
+    background-color: #3B443E;
+    text-decoration: underline;
+}
+
+#banner {
+    padding-left: 20px;
+
+
+}
+#banner2 {
+    padding-right: 0px;
+    padding-left: 200px;
+    padding-top: 150px;
+}
+#article {
+    position: static;
+    padding-top: 100px;
+    width: 45%;
+    height: 0%;
+    float: right;
+    font-size: 200%;
+    padding-right: 150px;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    text-align: center;
+    color: #000000;
+    font-style: italic;
+    font-variant: small-caps;
+    font-weight: bold;
+    text-shadow: 2px 2px #FFFFFF;
+}
+#container #US img {
+    padding-left: 250px;
+    padding-top: 200px;
+}
+#container #US img {
+    padding-right: 100px;
+}
+#container #farahh img {
+    padding-left: 250px;
+    padding-top: 150px;
+}
+#container #farahh img {
+    padding-right: 100px;
+    float: left;
+    padding-bottom: 80px;
+}
+#container #footer iframe {
+    float: right;
+}
+
+.twoColumn {
+    width: 45%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    padding-bottom: 10px;
+    float: left;
+    font-size: x-large;
+    padding-top: 0px;
+    background-color: #6A7A6F;
+    color: #FFFFFF;
+}
+#container #nouraPicandDiscription img {
+    padding-left: 200px;
+    padding-top: 100px;
+}
+#container #nouraPicandDiscription p {
+    width: 40%;
+    float: right;
+    font-size: xx-large;
+    position: static;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    text-align: left;
+    font-style: italic;
+    font-weight: bold;
+    text-shadow: 0px 0px;
+    border-radius: 40px;
+    margin-right: 150px;
+    background-color: #FFFFFF;
+    padding-left: 30px;
+    padding-right: 20px;
+    padding-bottom: 31px;
+    padding-top: 10px;
+    background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(153,138,141,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(153,138,141,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(153,138,141,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(153,138,141,1.00) 100%);
+    margin-top: 175px;
+}
+#container #nouraWork {
+    padding-left: 120px;
+}
+#container #nouraMywork {
+    text-align: center;
+    font-size: 400%;
+    font-style: normal;
+    text-shadow: 0px 2px;
+    text-transform: capitalize;
+}
+
+#container #farahDiscription {
+    width: 40%;
+    float: right;
+    font-size: xx-large;
+    position: static;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    text-align: left;
+    font-style: italic;
+    font-weight: bold;
+    text-shadow: 0px 0px;
+    border-radius: 40px;
+    margin-right: 150px;
+    background-color: #FFFFFF;
+    padding-left: 30px;
+    padding-right: 20px;
+    padding-bottom: 31px;
+    padding-top: 10px;
+    margin-top: 175px;
+    background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0.69%,rgba(145,150,157,1.00) 58.03%,rgba(106,113,122,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0.69%,rgba(145,150,157,1.00) 58.03%,rgba(106,113,122,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0.69%,rgba(145,150,157,1.00) 58.03%,rgba(106,113,122,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0.69%,rgba(145,150,157,1.00) 58.03%,rgba(106,113,122,1.00) 100%);
+}
+#container #farahImage {
+    padding-left: 180px;
+    padding-top: 90px;
+}
+#container #farahinfo {
+    padding-left: 50px;
+    margin-left: 200px;
+}
+#container #farahlastinfo {
+    padding-right: 100px;
+    padding-left: 300px;
+    margin-left: 250px;
+}
+#container #farahMywork {
+	text-align: center;
+    font-size: 400%;
+    font-style: normal;
+    text-shadow: 0px 2px;
+    text-transform: capitalize;
+}
+#container #nourainfo img {
+    margin-left: 140px;
+    padding-left: 30px;
+}
+#container #farahWork {
+    margin-left: 120px;
+    padding-left: 120px;
+}
+#container #rahafdiscription {
+	 width: 40%;
+    float: right;
+    font-size: xx-large;
+    position: static;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    text-align: left;
+    font-style: italic;
+    font-weight: bold;
+    text-shadow: 0px 0px;
+    border-radius: 40px;
+    margin-right: 150px;
+    background-color: #FFFFFF;
+    padding-left: 30px;
+    padding-right: 20px;
+    padding-bottom: 31px;
+    padding-top: 10px;
+    background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(153,138,141,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(153,138,141,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(153,138,141,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(153,138,141,1.00) 100%);
+    margin-top: 175px;
+}
+#container #rahafimage {
+    padding-left: 220px;
+    padding-top: 150px;
+}
+#container #rahafinfo img {
+    margin-left: 140px;
+    padding-left: 30px;
+}
+#container #rahafSkillImage {
+    margin-left: 100px;
+    padding-left: 100px;
+}
+#container #rahafMywork {
+	text-align: center;
+    font-size: 400%;
+    font-style: normal;
+    text-shadow: 0px 2px;
+    text-transform: capitalize;
+}
+#container #rahafWork {
+    padding-left: 250px;
+}
+#container #rahafWork img {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+#container #sarahDiscription {
+	width: 40%;
+    float: right;
+    font-size: xx-large;
+    position: static;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    text-align: left;
+    font-style: italic;
+    font-weight: bold;
+    text-shadow: 0px 0px;
+    border-radius: 40px;
+    margin-right: 150px;
+    background-color: #FFFFFF;
+    padding-left: 30px;
+    padding-right: 20px;
+    padding-bottom: 31px;
+    padding-top: 10px;
+    margin-top: 175px;
+    background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0.69%,rgba(145,150,157,1.00) 58.03%,rgba(106,113,122,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0.69%,rgba(145,150,157,1.00) 58.03%,rgba(106,113,122,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0.69%,rgba(145,150,157,1.00) 58.03%,rgba(106,113,122,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0.69%,rgba(145,150,157,1.00) 58.03%,rgba(106,113,122,1.00) 100%);
+}
+#container #sarahImage {
+    padding-left: 220px;
+    padding-top: 100px;
+}
+#container #sarahInfo {
+	 padding-left: 50px;
+    margin-left: 200px;
+}
+#container #sarahLastInfo {
+	padding-right: 100px;
+    padding-left: 300px;
+    margin-left: 250px;
+}
+#container #SarahMywork {
+	text-align: center;
+    font-size: 400%;
+    font-style: normal;
+    text-shadow: 0px 2px;
+    text-transform: capitalize;
+}
+#container #sarahWork {
+    margin-left: 120px;
+    padding-left: 120px;
+}
+
+#container #nouraVideo {
+    padding-left: 430px;
+    padding-right: 400px;
+}
+#container #rahafVideo {
+	 padding-left: 430px;
+    padding-right: 400px;
+}
